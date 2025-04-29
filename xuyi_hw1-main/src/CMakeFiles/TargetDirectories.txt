@@ -1,0 +1,3 @@
+D:/vscode/xuyi_hw1-main/src/CMakeFiles/main.dir
+D:/vscode/xuyi_hw1-main/src/CMakeFiles/edit_cache.dir
+D:/vscode/xuyi_hw1-main/src/CMakeFiles/rebuild_cache.dir

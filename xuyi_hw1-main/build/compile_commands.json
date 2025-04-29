@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/vscode/xuyi_hw1-main/build",
+  "command": "C:\\PROGRA~2\\EMBARC~1\\Dev-Cpp\\TDM-GC~1\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\algebra.c.obj -c D:\\vscode\\xuyi_hw1-main\\src\\algebra.c",
+  "file": "D:/vscode/xuyi_hw1-main/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.c.obj"
+},
+{
+  "directory": "D:/vscode/xuyi_hw1-main/build",
+  "command": "C:\\PROGRA~2\\EMBARC~1\\Dev-Cpp\\TDM-GC~1\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c D:\\vscode\\xuyi_hw1-main\\src\\main.c",
+  "file": "D:/vscode/xuyi_hw1-main/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]
